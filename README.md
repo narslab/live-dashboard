@@ -2,6 +2,9 @@
 
 Live dashboard of COVID cases, recoveries and fatalities globally. 
 
-Deployed on the web using Binder:
+Deployed using Binder.
 
-https://hub.gke.mybinder.org/user/naskoap-live-dashboard-pl7fl9bp/voila/render/notebooks/dashboard.ipynb?token=C4apMLaBR7upEalSFaVpQg
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/naskoap/live-dashboard/master?urlpath=voila%2Frender%2Fnotebooks%2Fdashboard.ipynb)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/naskoap/live-dashboard/master?urlpath=voila%2Frender%2Fnotebooks%2Fdashboard.ipynb
+
