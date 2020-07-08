@@ -2,6 +2,5 @@ jupyterlab
 numpy
 pandas
 plotly-express
-plotly-graph_objects
 ipywidgets
 voila
