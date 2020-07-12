@@ -1,6 +1,7 @@
 jupyterlab
 numpy
 pandas
+tabulate==0.8.3
 plotly==4.8.2
 ipywidgets
 voila
